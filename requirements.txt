@@ -1,0 +1,7 @@
+colorama
+httpx
+h2
+lxml
+pybase64
+httpx[socks]
+httpx-socks
